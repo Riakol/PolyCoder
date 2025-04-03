@@ -6,12 +6,12 @@
     </string-array>
 
     <string-array name="coding_list">
-        <item>kotlin|Kotlin_logo.svg.png</item>
-        <item>python|Python-Logo.jpg</item>
+        <item>kotlin|Kotlin_logo.svg.png|kotlin.html</item>
+        <item>python|Python-Logo.jpg|kotlin.html</item>
     </string-array>
 
     <string-array name="sql_list">
-        <item>PostgreSQL|PostgreSQLlogo.jpg</item>
-        <item>SQLite|SQLitelogo.png</item>
+        <item>PostgreSQL|PostgreSQLlogo.jpg|kotlin.html</item>
+        <item>SQLite|SQLitelogo.png|kotlin.html</item>
     </string-array>
 </resources>
