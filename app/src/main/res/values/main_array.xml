@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>programming languages</item>
+        <item>SQL</item>
+    </string-array>
+
+    <string-array name="coding_list">
+        <item>kotlin|Kotlin_logo.svg.png</item>
+        <item>python|Python-Logo.jpg</item>
+    </string-array>
+
+    <string-array name="sql_list">
+        <item>PostgreSQL|PostgreSQLlogo.jpg</item>
+        <item>SQLite|SQLitelogo.png</item>
+    </string-array>
+</resources>
